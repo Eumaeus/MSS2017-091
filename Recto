@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="grc">ΚΑΤΑ ΜΑΘΘΑΙΟΝ</title>
+                <editor xml:id="cb">Janey Capers Newland</editor>
+                <editor xml:id="cb">Emmett Baumgarten</editor>
+                <editor xml:id="cb">Brienna DePietro</editor>
+                <editor xml:id="cb">Summey Hedden</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition> </edition>
+                <respStmt>
+                    <name></name>
+                    <resp></resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <authority>
+                    <name></name>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+                <language ident="grc">Greek</language>
+                <language ident="xgrc">Transliterated Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="grc">
+        <body>
+            <div n="12" type="chapter">
+                <div n="48" type="verse">
+                    <p>ὁ δὲ ἀποκριθεὶς εἶπεν τῷ λέγοντι αὐτῷ· Τίς ἐστιν ἡ μήτηρ μου, καὶ τίνες εἰσὶν
+                        οἱ ἀδελφοί μου ; </p>
+                </div>
+                <div n="49" type="verse">
+                    <p>καὶ ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ τοὺς μαθητὰς αὐτοῦ εἶπεν· Ἰδοὺ ἡ μήτηρ μου
+                        καὶ οἱ ἀδελφοί μου· </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς, αὐτός μου
+                        ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ ἐστίν. </p>
+                </div>
+            </div>
+            <div n="13" type="chapter">
+                <div n="1" type="verse">
+                    <p>Ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐξελθὼν ὁ Ἰησοῦς τῆς οἰκίας ἐκάθητο παρὰ τὴν θάλασσαν·
+                    </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>καὶ συνήχθησαν πρὸς αὐτὸν ὄχλοι πολλοί, ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα
+                        καθῆσθαι, καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>καὶ ἐλάλησεν αὐτοῖς πολλὰ ἐν παραβολαῖς λέγων· Ἰδοὺ ἐξῆλθεν ὁ σπείρων τοῦ
+                        σπείρειν. </p>
+                </div>
+                <div n="4" type="verse">
+                    <p>καὶ ἐν τῷ σπείρειν αὐτὸν ἃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ ⸂ἐλθόντα τὰ πετεινὰ⸃
+                        κατέφαγεν αὐτά. </p>
+                </div>
+            </div>
+
+
+        </body>
+    </text>
+</TEI>
