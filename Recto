@@ -5,13 +5,13 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="grc">ΚΑΤΑ ΜΑΘΘΑΙΟΝ</title>
-                <editor xml:id="cb">Janey Capers Newland</editor>
-                <editor xml:id="cb">Emmett Baumgarten</editor>
-                <editor xml:id="cb">Brienna DePietro</editor>
-                <editor xml:id="cb">Summey Hedden</editor>
+                <editor>Janey Capers Newland</editor>
+                <editor>Emmett Baumgarten</editor>
+                <editor>Brienna DePietro</editor>
+                <editor>Summey Hedden</editor>
             </titleStmt>
             <editionStmt>
-                <edition> </edition>
+                <edition>MSS2017-091</edition>
                 <respStmt>
                     <name></name>
                     <resp></resp>
@@ -69,8 +69,6 @@
                         κατέφαγεν αὐτά. </p>
                 </div>
             </div>
-
-
         </body>
     </text>
 </TEI>
