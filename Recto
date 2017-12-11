@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?> 
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?>
 <?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -8,7 +8,7 @@
                 <editor>Janey Capers Newland</editor>
                 <editor>Emmett Baumgarten</editor>
                 <editor>Brienna DePietro</editor>
-                <editor>Summey Hedden</editor>
+                <editor>De'Sean Markley</editor>
             </titleStmt>
             <editionStmt>
                 <edition>MSS2017-091</edition>
