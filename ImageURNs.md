@@ -1,6 +1,3 @@
-- [urn:cite2:fufolio:jbdms.2017a:fu2017091_00](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:jbdms.2017a:fu2017091_00)
-
-![thumb: fu2017091_00](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/jbdms/2017a/fu2017091_00.tif&wid=300&CVT=JPEG)
 
 - [urn:cite2:fufolio:jbdms.2017a:fu2017091_1](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:jbdms.2017a:fu2017091_1)
 
