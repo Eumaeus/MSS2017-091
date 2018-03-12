@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="grc">ΚΑΤΑ ΜΑΘΘΑΙΟΝ</title>
+                <editor>Janey Capers Newland</editor>
+                <editor>Emmett Baumgarten</editor>
+                <editor>Brienna DiPietro</editor>
+                <editor>De'Sean Markley</editor>
+                <editor>Brandon Elmy</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>MSS2017-091</edition>
+                <respStmt>
+                    <name></name>
+                    <resp></resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <authority>
+                    <name></name>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="grc">
+        <body>
+            <div n="1" type="line">
+            </div>
+            <div n="2" type="line">
+                <p>ἀποκριθεὶς εἶπε τῶ εἰποντι αὐτῶ· Τίς ἐστιν ἡ μήτηρ μου· καὶ τίνες εἰσὶν
+                   οἱ ἀδελφοί μου · </p>
+
+                <p>καὶ ἐκτείνας τὴν χειρα αὐτοῦ ἐπι τοὺς μαθητὰς αὐτοῦ, εἶπεν· Ἰδου ἡ μήτηρ μου
+                    και οἱ ἀδελφοί μου· </p>
+                <p>ὅστις γὰρ ἂν ποιηση τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοις, αὐτός μου
+                    ἀδελφὸς· καὶ ἀδελφὴ. καὶ μήτηρ ἐστίν· </p>
+                <p>Ἐν δὲ ἡμέρα ἐκείνη, ἐξελθὼν ὁ Ισ ἀπο οἰκίας, ἐκάθητο παρὰ τὴν θάλα·
+                    </p>
+                <p>καὶ συνήχθησαν πρὸσ αὐτὸν ὄχλοι πολλοί· ὥστε αὐτὸν εἰς πλοῖον ἐμβάντα
+                    καθῆσθαι καὶ πᾶς ὁ ὄχλος ἐπὶ τὸν αἰγιαλὸν εἱστήκει· </p>
+                <p>καὶ ἐλάλησεν αὐτοῖς ἐν παραβολαῖς πολλά· λέγων, Ἰδου ἐξῆλθεν σπείρων τοῦ
+                    σπεῖραι· </p>
+                <p>καὶ ἐν τῶ σπείρειν αὐτὸν, ἃ μὲν ἔπεσε παρὰ τὴν ὁδόν· καὶ ἦλθε τὰ πετεινὰ⸃ καὶ
+                    κατέ </p>
+            </div>
+        </body>
+    </text>
+</TEI>
