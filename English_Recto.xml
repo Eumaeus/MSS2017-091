@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><?oxygen RNGSchema="tei-analysis.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="chs-gp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="eng">Gospel according to Matthew</title>
+                <translator>Janey Capers Newland</translator>
+                <translator>Gunner Hedden</translator>
+            </titleStmt>
+            <editionStmt>
+                <translation>MSS2017-091</translation>
+                <respStmt>
+                    <name></name>
+                    <resp></resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <authority>
+                    <name></name>
+                </authority>
+            </publicationStmt>
+            <sourceDesc>
+                <p>File created electronically. </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="eng">
+        <body>
+            <div n="12" type="chapter">
+                <div n="48" type="verse">
+                    <p>giving an answer, he spoke saying to him, "Who is my mother?
+                      And who are my brothers?"</p>
+                </div>
+                <div n="49" type="verse">
+                    <p>and extending his hand towards his disciples, he said, "Behold
+                      my mother and my brothers. </p>
+                </div>
+                <div n="50" type="verse">
+                    <p>for whoever may do the will of my father in heaven, he is my
+                      brother; and sister. and is mother."</p>
+                </div>
+            </div>
+            <div n="13" type="chapter">
+                <div n="1" type="verse">
+                    <p>and on that day, Jesus having gone from the house, was sitting by the sea.
+                    </p>
+                </div>
+                <div n="2" type="verse">
+                    <p>and many crowds were gathered together before him. Because of this
+                      stepping into the boat he sat and the whole crowd had stood on the shore. </p>
+                </div>
+                <div n="3" type="verse">
+                    <p>and he spoke many things to them in parables; saying, "Behold, the one
+                      sowing went to begin to sow</p>
+                </div>
+                <div n="4" type="verse">
+                    <p> and to sow them, on the one hand, he threw them along the road. The birds came and </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
