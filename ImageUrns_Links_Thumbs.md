@@ -17,3 +17,15 @@
 
 ![urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/jbdms/2018a/MSS2017091vuv2.tif&wid=300&CVT=JPEG)
 
+
+- [urn:cite2:fufolio:jbdms.2018a:MSS2017091vn2](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:jbdms.2018a:MSS2017091vn2)
+
+![urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv2](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/jbdms/2018a/MSS2017091vn2.tif&wid=300&CVT=JPEG)
+
+- [urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv3](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv3)
+
+![urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv3](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/jbdms/2018a/MSS2017091vuv3.tif&wid=300&CVT=JPEG)
+
+- [urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv4](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv4)
+
+![urn:cite2:fufolio:jbdms.2018a:MSS2017091vuv4](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/fufolio/jbdms/2018a/MSS2017091vuv4.tif&wid=300&CVT=JPEG)
