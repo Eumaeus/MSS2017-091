@@ -11,5 +11,5 @@ Editorial work on MSS2017-091
 
 ### Line by Lines Can Be on USB
 #### They are a funky format but are really important
--line_by_line.rtf
--line_by_line_verso.rtf
+- line_by_line.rtf
+- line_by_line_verso.rtf
