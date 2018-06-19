@@ -6,8 +6,8 @@ Editorial work on MSS2017-091
 - Verso: Matthew 13:5-13:11 or 13:12
 
 ### All Images Can Be on USB
--ImageURNs-deprecated.md
--ImageUrns_Links_Thumbs.md
+- ImageURNs-deprecated.md
+- ImageUrns_Links_Thumbs.md
 
 ### Line by Lines Can Be on USB
 #### They are a funky format but are really important
