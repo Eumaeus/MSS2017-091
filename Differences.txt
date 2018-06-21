@@ -18,5 +18,9 @@ word order change with πολλα
 ἦλθε instead of ἐλθόντα
 add και
 
+13:10
+The canonical versions have "Καὶ προσελθόντες οἱ μαθηταὶ εἶπαν αὐτῷ· Διὰ τί ἐν πα" where we have a single line. There is no way that the entirety of that section could fit on the one line.
+
 
 This fragment of Matthew features several textual variants. Even in this short passage there are orthographic differences, high stops and commas used as the primary forms of punctuation, and changes in accentuation. There are two tense changes, one of which replaces the historical present (λέγοντι) with an aorist verb (εἰπόντι). The other tense change relates to an infinitive. At Matthew 13.3, in most critical editions, there two present infinitives; on this fragment, the first present infinitive (σπείρειν) changes into an aorist infinitive (σπεῖραι) despite the second remaining present. As such, we should read the first infinitive as an ingressive aorist. Later, a finite verb (ἦηθε) is put where there was previously a participle (ἐλθόντα). Chapter 13 verse 3 also contains changes in word order. All of these differences are found on a single side of the manuscript.
+
